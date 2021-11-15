@@ -1,12 +1,12 @@
 # Plot_Cp
  
- This code creates some plots of the Cp distribution around an Eppler 420 airfoi. 
+ This code creates plots of the Cp distribution around an airfoil (here: Eppler 420). 
  
  ---
  
  It uses:
- * Some ".xy" files for the values of Cp (generated form ANSYS Fluent)
- * One ".csv" file for the coordinates of the airfoil (from http://airfoiltools.com/).
+ * ".xy" files for the values of Cp (generated from ANSYS Fluent)
+ * ".csv" file for the coordinates of the airfoil (from http://airfoiltools.com/).
  
  The data is transformed to represent a dimensionless airfoil cord.
  
